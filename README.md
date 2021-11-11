@@ -34,7 +34,7 @@ This is the code repository for th tic-tac-toe game. It allows you to play this 
     Class file for the game
   
    
-  * unit_test.py: 
+  * test.py: 
   
     Class file for the unit tests
     
